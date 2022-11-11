@@ -44,7 +44,7 @@
     "type": "git",
     "url": "git+https://github.com/iungopbx/iungo-typescript.git"
   },
-  "author": "Kirill Konshin",
+  "author": "Daniel Paixao",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/iungopbx/iungo-typescript/issues"

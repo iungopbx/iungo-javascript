@@ -1,4 +1,4 @@
-# RingCentral React and Redux Style Guide
+# Iungo React and Redux Style Guide
 
 - [Introduction](#introduction)
 - [Code structure](#code-structure)

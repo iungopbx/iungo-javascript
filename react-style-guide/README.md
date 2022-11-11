@@ -1,4 +1,4 @@
-# RingCentral React Style Guide
+# Iungo React Style Guide
 
 ## React specific
 

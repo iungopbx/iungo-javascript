@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-iungo",
   "version": "1.0.0",
-  "description": "ESLint config for the RingCentral style guide",
+  "description": "ESLint config for the Iungo style guide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""
@@ -15,12 +15,12 @@
     "eslint",
     "code quality",
     "JavaScript",
-    "RingCentral",
+    "Iungo",
     "lint",
     "tools",
     "config"
   ],
-  "author": "RingCentral Developers",
+  "author": "Iungo Developers",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/iungopbx/iungo-javascript/issues"

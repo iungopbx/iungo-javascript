@@ -1,4 +1,4 @@
-RingCentral TypeScript
+Iungo TypeScript
 ======================
 
 A stricter and TypeScript-enabled version of https://github.com/iungopbx/iungo-javascript.
