@@ -1,6 +1,6 @@
 # eslint-config-iungo
 
-The eslint sharable config for the [RingCentral JavaScript Style Guide](https://github.com/iungopbx/iungo-javascript) and [RingCentral React Style Guide](https://github.com/iungopbx/iungo-javascript/tree/master/react-style-guide)
+The eslint sharable config for the [Iungo JavaScript Style Guide](https://github.com/iungopbx/iungo-javascript) and [Iungo React Style Guide](https://github.com/iungopbx/iungo-javascript/tree/master/react-style-guide)
 
 ## Usage
 
