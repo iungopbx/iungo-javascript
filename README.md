@@ -1,6 +1,6 @@
-# RingCentral JavaScript Style Guide
+# Iungo JavaScript Style Guide
 
-React-specific guidelines described at [RingCentral React Style Guide](https://github.com/iungopbx/iungo-javascript/tree/master/react-style-guide)
+React-specific guidelines described at [Iungo React Style Guide](https://github.com/iungopbx/iungo-javascript/tree/master/react-style-guide)
 
 ## Table of contents
 
