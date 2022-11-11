@@ -1,0 +1,43 @@
+{
+  "name": "eslint-config-iungo",
+  "version": "1.0.0",
+  "description": "ESLint config for the RingCentral style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iungopbx/iungo-javascript.git"
+  },
+  "keywords": [
+    "style guide",
+    "eslint",
+    "code quality",
+    "JavaScript",
+    "RingCentral",
+    "lint",
+    "tools",
+    "config"
+  ],
+  "author": "RingCentral Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iungopbx/iungo-javascript/issues"
+  },
+  "homepage": "https://github.com/iungopbx/iungo-javascript",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-iungo": "^1.0.0",
+    "eslint-plugin-sonarjs": "^0.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "*",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-react": "*",
+    "eslint-plugin-iungo": "*",
+    "eslint-plugin-sonarjs": "*"
+  }
+}

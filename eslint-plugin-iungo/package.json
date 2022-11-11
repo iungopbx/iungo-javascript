@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-iungo",
+  "version": "1.0.0",
+  "description": "plugin for iungo products",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "ledamint",
+  "main": "lib/rules/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "mocha": "^6.2.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "license": "ISC"
+}
