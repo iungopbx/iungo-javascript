@@ -27,7 +27,7 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-testing-library": "^5.0.1",
     "eslint-plugin-prettier": "4.0.0",
-    "eslint-plugin-iungo": "1.0.0",
+    "eslint-plugin-iungo": "git+https://github.com/iungopbx/eslint-plugin-iungo.git",
     "eslint-plugin-sonarjs": "^0.11.0",
     "prettier": "2.5.1"
   },
